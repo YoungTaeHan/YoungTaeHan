@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @YoungTaeHan
-- 👀 I’m interested in parallel processing
+- 👋 👀 I’m interested in parallel processing
 - 🌱 I’m currently learning GPU programming
 - 💞️ I’m looking to collaborate on some method to speed up my program
 - 📫 How to reach me? mail me
